@@ -43,7 +43,6 @@ Clone the repository and install the required libraries.
 
 ```bash
 git clone https://github.com/your-username/next-word-predictor.git
-cd next-word-predictor
 
 # Install dependencies
 pip install -r requirements.txt

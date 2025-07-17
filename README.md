@@ -4,7 +4,6 @@
 [![Made with Python](https://img.shields.io/badge/Made%20with-Python-blue?logo=python)](https://www.python.org/)
 [![Model: Keras](https://img.shields.io/badge/Model-Keras-red?logo=keras)](https://keras.io/)
 [![Powered by TensorFlow](https://img.shields.io/badge/Powered%20by-TensorFlow-orange?logo=tensorflow)](https://www.tensorflow.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 > Predict the next word in a sentence using both LSTM and GRU-based models — in real time!
 

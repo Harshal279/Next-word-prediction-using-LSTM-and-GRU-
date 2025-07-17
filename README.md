@@ -8,13 +8,6 @@
 
 > Predict the next word in a sentence using both LSTM and GRU-based models — in real time!
 
-# 🔮 Next Word Predictor | LSTM & GRU Based NLP App
-
-[![Streamlit App](https://img.shields.io/badge/Launch%20App-Click%20Here-success?style=for-the-badge&logo=streamlit)](https://kfjhvh2skgdpthmrnitgdc.streamlit.app/)
-[![Built with TensorFlow](https://img.shields.io/badge/TensorFlow-Used-orange?logo=tensorflow)](https://www.tensorflow.org/)
-[![Made with Python](https://img.shields.io/badge/Made%20with-Python-blue?logo=python)](https://www.python.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-
 ---
 
 ## ✨ Overview
